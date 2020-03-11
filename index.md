@@ -5,17 +5,18 @@ Journal Club with specialization in Neuroscience (JCN) is an in-the-flash activi
 ### Scheduled for 2020 Spring
 **Due to the outbreak of ConV2019, the JC would be deliveried online, which will start from week 3 of this term.**
 
-| Time | Host | Topic | Status |
+
+|  Time  |  Host  |  Topic  | Status |
 | --- | --- | --- | --- |
-| Jan 11th | 潘祎杰 | Olfactory Coding |[Lecture uploaded](https://lingweizhang.github.io/JCN/2020Spring/01/paper1.pdf) |
-| Week 3 | 吴亚楠 | | |
-| Week 4 | 诸言明 | | |
-| Week 5 | 吴佳芮 | | |
-| Week 6 | 黄予超 | | |
-| Week 7 | 张凌威 | | |
-| Week 8 | 潘祎杰 | | |
-| Week 9 | 林云致 | | |
-| Week 10 | 刘君朗 | | |
+|  Jan 11th | 潘祎杰 | Olfactory Coding |[Lecture uploaded](https://lingweizhang.github.io/JCN/2020Spring/01/paper1.pdf) |
+|  Week 3 | 吴亚楠 | | |
+|  Week 4 | 诸言明 | | |
+|  Week 5 | 吴佳芮 | | |
+|  Week 6 | 黄予超 | | |
+|  Week 7 | 张凌威 | | |
+|  Week 8 | 潘祎杰 | | |
+|  Week 9 | 林云致 | | |
+|  Week 10 | 刘君朗 | | |
 
 ### Finished
 
@@ -26,8 +27,8 @@ Journal Club with specialization in Neuroscience (JCN) is an in-the-flash activi
 
 1. Fork the JCN-FDU repository.
 2. Post your talk by modifying the [index.md](https://github.com/LingweiZhang/JCN-FDU) and adding related materials about your talk into the [2020Spring](https://github.com/LingweiZhang/JCN-FDU) folder.
-3. Submit a pull request for your modification.
-4. Ask our contact support to merge it to 
+3. Submit a push request for your modification.
+4. Ask our [contact support](mailto:lwzhang921@gmail.com) to push your update to origin repository; you can also keep a separate clone of JCN in your github.
 
 
 ### Support or Contact
