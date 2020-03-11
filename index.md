@@ -7,7 +7,7 @@ Journal Club with specialization in Neuroscience (JCN) is an in-the-flash activi
 
 | Time | Host | Topic | Status |
 | --- | --- | --- | --- |
-| Jan 11th | 潘祎杰 | Olfactory Coding |[Lecture uploaded](https://github.com/LingweiZhang/JCN/2020Spring/01/JC#-1.pdf) |
+| Jan 11th | 潘祎杰 | Olfactory Coding |[Lecture uploaded](https://lingweizhang.github.io/JCN/2020Spring/01/paper1.pdf) |
 | Week 3 | 吴亚楠 | | |
 | Week 4 | 诸言明 | | |
 | Week 5 | 吴佳芮 | | |
@@ -19,7 +19,7 @@ Journal Club with specialization in Neuroscience (JCN) is an in-the-flash activi
 
 ### Finished
 
-1. Yijie Pan's talk about [Sensory coding mechanisms revealed by optical tagging of physiologically defined neuronal types](https://github.com/LingweiZhang/JCN/2020Spring/01/paper1.pdf).
+1. Yijie Pan's talk about [Sensory coding mechanisms revealed by optical tagging of physiologically defined neuronal types](https://lingweizhang.github.io/JCN/2020Spring/01/JCN1.pdf).
 
 
 ### How to post your talk on the schedule
@@ -27,6 +27,7 @@ Journal Club with specialization in Neuroscience (JCN) is an in-the-flash activi
 1. Fork the JCN-FDU repository.
 2. Post your talk by modifying the [index.md](https://github.com/LingweiZhang/JCN-FDU) and adding related materials about your talk into the [2020Spring](https://github.com/LingweiZhang/JCN-FDU) folder.
 3. Submit a pull request for your modification.
+4. Ask our contact support to merge it to 
 
 
 ### Support or Contact
