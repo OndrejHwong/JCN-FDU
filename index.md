@@ -4,17 +4,18 @@ Journal Club with specialization in Neuroscience (JCN) is an in-the-flash activi
 
 ### Scheduled for 2020 Spring
 **Due to the outbreak of ConV2019, the JC would be deliveried online, which will start from week 3 of this term.**
-|Time|Host|Topic| Status |
+
+| Time | Host | Topic | Status |
 | --- | --- | --- | --- |
-|Jan 11th| 潘祎杰 | Olfactory Coding |[Lecture uploaded](https://github.com/LingweiZhang/JCN/2020Spring/01/JC#-1.pdf)|
-|Week 3 | 吴亚楠 | | |
-|Week 4 | 诸言明 | | |
-|Week 5 | 吴佳芮 | | |
-|Week 6 | 黄予超 | | |
-|Week 7 | 张凌威 | | |
-|Week 8 | 潘祎杰 | | |
-|Week 9 | 林云致 | | |
-|Week 10 | 刘君朗 | | |
+| Jan 11th | 潘祎杰 | Olfactory Coding |[Lecture uploaded](https://github.com/LingweiZhang/JCN/2020Spring/01/JC#-1.pdf) |
+| Week 3 | 吴亚楠 | | |
+| Week 4 | 诸言明 | | |
+| Week 5 | 吴佳芮 | | |
+| Week 6 | 黄予超 | | |
+| Week 7 | 张凌威 | | |
+| Week 8 | 潘祎杰 | | |
+| Week 9 | 林云致 | | |
+| Week 10 | 刘君朗 | | |
 
 ### Finished
 
