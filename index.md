@@ -8,8 +8,8 @@ Journal Club with specialization in Neuroscience (JCN) is an in-the-flash activi
 
 |  Time  |  Host  |  Topic  | Status |
 | --- | --- | --- | --- |
-|  Jan 11th | 潘祎杰 | Olfactory Coding |[Lecture uploaded](https://lingweizhang.github.io/JCN/2020Spring/01/paper1.pdf) |
-|  Week 3 | 吴亚楠 | | |
+|  Jan 11th | 潘祎杰 | Olfactory Coding |[Lecture uploaded](https://lingweizhang.github.io/JCN/2020Spring/01/JCN1.pdf) |
+|  Week 3 | 吴亚楠 | Proteomic Profiling & Wiring Regulators | [Lecture uploaded](https://lingweizhang.github.io/JCN/2020Spring/02/JCN2.pdf) |
 |  Week 4 | 诸言明 | | |
 |  Week 5 | 吴佳芮 | | |
 |  Week 6 | 黄予超 | | |
@@ -20,7 +20,8 @@ Journal Club with specialization in Neuroscience (JCN) is an in-the-flash activi
 
 ### Finished
 
-1. Yijie Pan's talk about [Sensory coding mechanisms revealed by optical tagging of physiologically defined neuronal types](https://lingweizhang.github.io/JCN/2020Spring/01/JCN1.pdf).
+1. Yijie Pan's talk about [Sensory coding mechanisms revealed by optical tagging of physiologically defined neuronal types](https://lingweizhang.github.io/JCN/2020Spring/01/paper1.pdf).
+2. Yanan Wu's talk about [Cell-Surface Proteomic Profiling in the Fly Brain Uncovers Wiring Regulators](https://lingweizhang.github.io/JCN/2020Spring/02/paper1.pdf).
 
 
 ### How to post your talk on the schedule
