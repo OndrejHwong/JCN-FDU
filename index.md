@@ -10,7 +10,7 @@ Journal Club with specialization in Neuroscience (JCN) is an in-the-flash activi
 | --- | --- | --- | --- |
 |  Jan 11th | 潘祎杰 | Olfactory Coding |[Lecture uploaded](https://lingweizhang.github.io/JCN/2020Spring/01/JCN1.pdf) |
 |  Mar 21st | 吴亚楠 | Proteomic Profiling & Wiring Regulators | [Lecture uploaded](https://lingweizhang.github.io/JCN/2020Spring/02/JCN2.pdf) |
-|  Week 4 | 诸言明 | Spike Replaying & Human Memory Retrieval | [Lecture uploaded](https://lingweizhang.github.io/JCN/2020Spring/03/JCN3.pdf) [Video uploaded](https://lingweizhang.github.io/JCN/2020Spring/03/JCN3.mp4)  |
+|  Week 4 | 诸言明 | Spike Replaying & Human Memory Retrieval | [Lecture uploaded](https://lingweizhang.github.io/JCN/2020Spring/03/JCN3.pdf)  & [Video uploaded](https://lingweizhang.github.io/JCN/2020Spring/03/JCN3.mp4)  |
 |  Week 5 | 吴佳芮 | | |
 |  Week 6 | 黄予超 | | |
 |  Week 7 | 张凌威 | | |
